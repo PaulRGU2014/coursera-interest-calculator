@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Simple Interest Calculator
+# Updated comment
 
 read -p "Enter the principal amount: " principal
 read -p "Enter the rate of interest: " rate
